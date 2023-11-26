@@ -15,7 +15,7 @@ import warnings
 
 # Zadanie 1: Ładowanie i wstępna eksploracja
 print("==================================================")
-df = pd.read_excel("Credit_Card.xlsx")
+df = pd.read_excel("Credit_card.xlsx")
 print(df.shape)
 df = df.drop(columns=['ID'])
 number_of_columns = df.shape[1] - 1
