@@ -34,7 +34,7 @@ This repository contains a comprehensive machine learning pipeline for predictin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/credit-card-default-prediction.git
+   git clone https://github.com/Alex5497/credit-card-default-prediction.git
    cd credit-card-default-prediction
    ```
 
